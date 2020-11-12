@@ -3,3 +3,4 @@ The two moons may be a problem for wolfman
 Wolfman should be careful when both moons are full.
 
 Let's move to considering Venus
+Jesse added this line to the local copy
